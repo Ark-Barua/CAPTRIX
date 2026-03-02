@@ -1,0 +1,23 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and packaging output
+build/
+dist/
+*.spec
+
+# Local app data and logs
+.captrix/
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
